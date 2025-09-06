@@ -2,470 +2,470 @@
   "cache_time": 9200,
   "api_site": {
     "1080zyku": {
-      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "api": "3nR5Y6Z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3",
       "name": "1080资源",
-      "detail": "https://api.1080zyku.com"
+      "detail": "3nR5Y6Z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2z3"
     },
     "360zy": {
-      "api": "https://360zy.com/api.php/provide/vod",
+      "api": "3mP4X5Y6Z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2",
       "name": "360资源",
-      "detail": "https://360zy.com"
+      "detail": "3mP4X5Y6Z7a8b9c0d1e2f3g4h5i6j7k8l9m0n1o2p3q4r5s6t7u8v9w0x1y2"
     },
     "ukuapi": {
-      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "api": "3oQ5W6X7Y8Z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4",
       "name": "U酷资源",
-      "detail": "https://api.ukuapi.com"
+      "detail": "3oQ5W6X7Y8Z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4"
     },
     "ukuapi88": {
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "api": "3pR6X7Y8Z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5",
       "name": "U酷资源88",
-      "detail": "https://api.ukuapi88.com"
+      "detail": "3pR6X7Y8Z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5"
     },
     "ikunzy": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "api": "3qS7Y8Z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6",
       "name": "ikun资源",
-      "detail": "https://ikunzyapi.com"
+      "detail": "3qS7Y8Z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6"
     },
     "wujinapi_cc": {
-      "api": "https://api.wujinapi.cc/api.php/provide/vod",
+      "api": "3rT8Z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7",
       "name": "无尽资源",
-      "detail": "https://api.wujinapi.cc"
+      "detail": "3rT8Z9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7"
     },
     "yayazy": {
-      "api": "https://cj.yayazy.net/api.php/provide/vod",
+      "api": "3sU9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8",
       "name": "丫丫点播",
-      "detail": "https://cj.yayazy.net"
+      "detail": "3sU9a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8"
     },
     "guangsuapi": {
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "api": "3tV0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9",
       "name": "光速资源",
-      "detail": "https://api.guangsuapi.com"
+      "detail": "3tV0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9"
     },
     "wolongzyw": {
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+      "api": "3uW1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0",
       "name": "卧龙点播",
-      "detail": "https://collect.wolongzyw.com"
+      "detail": "3uW1c2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0"
     },
     "wolongzy_cc": {
-      "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+      "api": "3vX2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1",
       "name": "卧龙资源",
-      "detail": "https://collect.wolongzy.cc"
+      "detail": "3vX2d3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1"
     },
     "wolongzyw_com": {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "api": "3wY3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2",
       "name": "卧龙资源",
-      "detail": "https://wolongzyw.com"
+      "detail": "3wY3e4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2"
     },
     "tyyszy": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
+      "api": "3xZ4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3",
       "name": "天涯资源",
-      "detail": "https://tyyszy.com"
+      "detail": "3xZ4f5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3"
     },
     "rycjapi": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "3yA5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4",
       "name": "如意资源",
-      "detail": "https://cj.rycjapi.com"
+      "detail": "3yA5g6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4"
     },
     "xiaomaomi": {
-      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "api": "3zB6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5",
       "name": "小猫咪资源",
-      "detail": "https://zy.xmm.hk"
+      "detail": "3zB6h7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5"
     },
     "xinlangapi": {
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "api": "4aC7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6",
       "name": "新浪点播",
-      "detail": "https://api.xinlangapi.com"
+      "detail": "4aC7i8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6"
     },
     "wujinapi_com": {
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "api": "4bD8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7",
       "name": "无尽资源",
-      "detail": "https://api.wujinapi.com"
+      "detail": "4bD8j9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7"
     },
     "wujinapi_me": {
-      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "api": "4cE9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8",
       "name": "无尽资源",
-      "detail": "https://api.wujinapi.me"
+      "detail": "4cE9k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8"
     },
     "wujinapi_net": {
-      "api": "https://api.wujinapi.net/api.php/provide/vod",
+      "api": "4dF0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9",
       "name": "无尽资源",
-      "detail": "https://api.wujinapi.net"
+      "detail": "4dF0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9"
     },
     "wwzy": {
-      "api": "https://wwzy.tv/api.php/provide/vod",
+      "api": "4eG1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0",
       "name": "旺旺短剧",
-      "detail": "https://wwzy.tv"
+      "detail": "4eG1m2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0"
     },
     "wwzy_api": {
-      "api": "https://api.wwzy.tv/api.php/provide/vod",
+      "api": "4fH2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1",
       "name": "旺旺资源",
-      "detail": "https://api.wwzy.tv"
+      "detail": "4fH2n3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1"
     },
     "bfzyapi": {
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "api": "4gI3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2",
       "name": "暴风资源",
-      "detail": "https://bfzyapi.com"
+      "detail": "4gI3o4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2"
     },
     "zuidazy": {
-      "api": "http://zuidazy.me/api.php/provide/vod",
+      "api": "4hJ4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3",
       "name": "最大点播",
-      "detail": "http://zuidazy.me"
+      "detail": "4hJ4p5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3"
     },
     "zuidapi": {
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
+      "api": "4iK5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4",
       "name": "最大资源",
-      "detail": "https://api.zuidapi.com"
+      "detail": "4iK5q6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4"
     },
     "apiyhzy": {
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "api": "4jL6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5",
       "name": "樱花资源",
-      "detail": "https://m3u8.apiyhzy.com"
+      "detail": "4jL6r7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5"
     },
     "yparse": {
-      "api": "https://api.yparse.com/api/json",
+      "api": "4kM7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6",
       "name": "步步高资源",
-      "detail": "https://api.yparse.com"
+      "detail": "4kM7s8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6"
     },
     "niuniuzy": {
-      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "api": "4lN8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7",
       "name": "牛牛点播",
-      "detail": "https://api.niuniuzy.me"
+      "detail": "4lN8t9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7"
     },
     "dyttzyapi": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "api": "4mO9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8",
       "name": "电影天堂资源",
-      "detail": "http://caiji.dyttzyapi.com"
+      "detail": "4mO9u0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8"
     },
     "apibdzy": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "api": "4nP0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9",
       "name": "百度云资源",
-      "detail": "https://api.apibdzy.com"
+      "detail": "4nP0v1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9"
     },
     "suoniapi": {
-      "api": "https://suoniapi.com/api.php/provide/vod",
+      "api": "4oQ1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0",
       "name": "索尼资源",
-      "detail": "https://suoniapi.com"
+      "detail": "4oQ1w2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0"
     },
     "hongniuzy2": {
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "api": "4pR2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1",
       "name": "红牛资源",
-      "detail": "https://www.hongniuzy2.com"
+      "detail": "4pR2x3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1"
     },
     "maotaizy": {
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "api": "4qS3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2",
       "name": "茅台资源",
-      "detail": "https://caiji.maotaizy.cc"
+      "detail": "4qS3y4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2"
     },
     "huyaapi": {
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "api": "4rT4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3",
       "name": "虎牙资源",
-      "detail": "https://www.huyaapi.com"
+      "detail": "4rT4z5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3"
     },
     "dbzy_caiji": {
-      "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+      "api": "4sU5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4",
       "name": "豆瓣资源",
-      "detail": "https://caiji.dbzy.tv"
+      "detail": "4sU5A6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4"
     },
     "dbzy": {
-      "api": "https://dbzy.tv/api.php/provide/vod",
+      "api": "4tV6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5",
       "name": "豆瓣资源",
-      "detail": "https://dbzy.tv"
+      "detail": "4tV6B7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5"
     },
     "hhzyapi": {
-      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "api": "4uW7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6",
       "name": "豪华资源",
-      "detail": "https://hhzyapi.com"
+      "detail": "4uW7C8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6"
     },
     "subocaiji": {
-      "api": "https://subocaiji.com/api.php/provide/vod",
+      "api": "4vX8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7",
       "name": "速博资源",
-      "detail": "https://subocaiji.com"
+      "detail": "4vX8D9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7"
     },
     "lziapi": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "api": "4wY9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8",
       "name": "量子资源",
-      "detail": "https://cj.lziapi.com"
+      "detail": "4wY9E0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8"
     },
     "jinyingzy": {
-      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "api": "4xZ0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9",
       "name": "金鹰点播",
-      "detail": "https://jinyingzy.com"
+      "detail": "4xZ0F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9"
     },
     "jyzyapi": {
-      "api": "https://jyzyapi.com/api.php/provide/vod",
+      "api": "4yA1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0",
       "name": "金鹰资源",
-      "detail": "https://jyzyapi.com"
+      "detail": "4yA1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0"
     },
     "sdzyapi": {
-      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "api": "4zB2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1",
       "name": "闪电资源",
-      "detail": "https://sdzyapi.com"
+      "detail": "4zB2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1"
     },
     "ffzyapi": {
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "api": "5aC3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2",
       "name": "非凡资源",
-      "detail": "https://cj.ffzyapi.com"
+      "detail": "5aC3I4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2"
     },
     "p2100": {
-      "api": "https://p2100.net/api.php/provide/vod",
+      "api": "5bD4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3",
       "name": "飘零资源",
-      "detail": "https://p2100.net"
+      "detail": "5bD4J5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3"
     },
     "mozhuazy": {
-      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "api": "5cE5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4",
       "name": "魔爪资源",
-      "detail": "https://mozhuazy.com"
+      "detail": "5cE5K6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4"
     },
     "moduapi": {
-      "api": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "api": "5dF6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5",
       "name": "魔都动漫",
-      "detail": "https://caiji.moduapi.cc"
+      "detail": "5dF6L7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5"
     },
     "mdzyapi": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "api": "5eG7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6",
       "name": "魔都资源",
-      "detail": "https://www.mdzyapi.com"
+      "detail": "5eG7M8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6"
     },
     "maozyapi": {
-      "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+      "api": "5fH8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7",
       "name": "八哥资源",
-      "detail": "https://api.maozyapi.com"
+      "detail": "5fH8N9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7"
     },
     "ffzynew": {
-      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "api": "5gI9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8",
       "name": "非凡影视new",
-      "detail": "http://ffzy5.tv"
+      "detail": "5gI9O0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8"
     },
     "jszyapi": {
-      "api": "https://jszyapi.com/api.php/provide/vod",
+      "api": "5hJ0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9",
       "name": "极速资源",
-      "detail": "https://jszyapi.com"
+      "detail": "5hJ0P1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9"
     },
     "aiduanju": {
-      "api": "https://www.aiduanju.cc/",
+      "api": "5iK1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0",
       "name": "爱短剧.cc",
-      "detail": "https://www.aiduanju.cc"
+      "detail": "5iK1Q2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0"
     },
     "hongniuzy3": {
-      "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+      "api": "5jL2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1",
       "name": "红牛资源",
-      "detail": "https://www.hongniuzy3.com"
+      "detail": "5jL2R3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1"
     },
     "xsd_sdzyapi": {
-      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "api": "5kM3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2",
       "name": "闪电资源",
-      "detail": "https://xsd.sdzyapi.com"
+      "detail": "5kM3S4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2"
     },
     "jyzyapi_provide": {
-      "api": "https://jyzyapi.com/provide/vod",
+      "api": "5lN4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3",
       "name": "金鹰资源",
-      "detail": "https://jyzyapi.com"
+      "detail": "5lN4T5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3"
     },
     "yzzy_api": {
-      "api": "https://api.yzzy-api.com/inc/apijson.php",
+      "api": "5mO5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4",
       "name": "优质资源",
-      "detail": "https://api.yzzy-api.com"
+      "detail": "5mO5U6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4"
     },
     "iqiyizyapi": {
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "api": "5nP6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5",
       "name": "iqiyi资源",
-      "detail": "https://iqiyizyapi.com"
+      "detail": "5nP6V7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5"
     },
     "ffzy": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "api": "5oQ7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6",
       "name": "非凡影视",
-      "detail": "http://ffzy5.tv"
+      "detail": "5oQ7W8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6"
     },
     "maoyanapi": {
-      "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
+      "api": "5pR8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7",
       "name": "猫眼资源",
-      "detail": "https://api.maoyanapi.top"
+      "detail": "5pR8X9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7"
     },
     "adult_site": [
       {
-        "api": "https://api.douapi.cc/api.php/provide/vod",
+        "api": "5qS9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8",
         "name": "豆豆资源",
-        "detail": "https://api.douapi.cc"
+        "detail": "5qS9Y0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8"
       },
       {
-        "api": "https://caiji.semaozy.net/inc/api.php",
+        "api": "5rT0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9",
         "name": "色猫资源",
-        "detail": "https://caiji.semaozy.net"
+        "detail": "5rT0Z1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9"
       },
       {
-        "api": "https://api.zuiseapi.com/api.php/provide/vod",
+        "api": "5sU1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0",
         "name": "最色资源",
-        "detail": "https://api.zuiseapi.com"
+        "detail": "5sU1A2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0"
       },
       {
-        "api": "https://api.ddapi.cc/api.php/provide/vod",
+        "api": "5tV2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1",
         "name": "滴滴资源",
-        "detail": "https://api.ddapi.cc"
+        "detail": "5tV2B3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1"
       },
       {
-        "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+        "api": "5uW3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2",
         "name": "细胞资源",
-        "detail": "https://www.xxibaozyw.com"
+        "detail": "5uW3C4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2"
       },
       {
-        "api": "https://91jpzyw.com/api.php/provide/vod/at/json",
+        "api": "5vX4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3",
         "name": "91资源",
-        "detail": "https://91jpzyw.com"
+        "detail": "5vX4D5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3"
       },
       {
-        "api": "https://www.yyzywcj.com/api.php/provide/vod",
+        "api": "5wY5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4",
         "name": "优优资源",
-        "detail": "https://www.yyzywcj.com"
+        "detail": "5wY5E6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4"
       },
       {
-        "api": "https://siwazyw.tv/api.php/provide/vod/at/json/",
+        "api": "5xZ6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5",
         "name": "丝袜资源",
-        "detail": "https://siwazyw.tv"
+        "detail": "5xZ6F7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5"
       },
       {
-        "api": "https://apidanaizi.com/api.php/provide/vod",
+        "api": "5yA7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6",
         "name": "大奶资源",
-        "detail": "https://apidanaizi.com"
+        "detail": "5yA7G8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6"
       },
       {
-        "api": "https://apilj.com/api.php/provide/vod/at/json/",
+        "api": "5zB8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7",
         "name": "辣椒资源",
-        "detail": "https://apilj.com"
+        "detail": "5zB8H9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7"
       },
       {
-        "api": "https://dadiapi.com/api.php/provide/vod",
+        "api": "6aC9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8",
         "name": "大地资源",
-        "detail": "https://dadiapi.com"
+        "detail": "6aC9I0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8"
       },
       {
-        "api": "https://hsckzy888.com/api.php/provide/vod",
+        "api": "6bD0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9",
         "name": "黄色资源",
-        "detail": "https://hsckzy888.com"
+        "detail": "6bD0J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9"
       },
       {
-        "api": "https://api.xiaojizy.live/provide/vod",
+        "api": "6cE1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0",
         "name": "小鸡资源",
-        "detail": "https://api.xiaojizy.live"
+        "detail": "6cE1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0"
       },
       {
-        "api": "https://xingba111.com/api.php/provide/vod",
+        "api": "6dF2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1",
         "name": "性吧资源",
-        "detail": "https://xingba111.com"
+        "detail": "6dF2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1"
       },
       {
-        "api": "https://155api.com/api.php/provide/vod",
+        "api": "6eG3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2",
         "name": "155资源",
-        "detail": "https://155api.com"
+        "detail": "6eG3M4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2"
       },
       {
-        "api": "https://ckzy.me/api.php/provide/vod",
+        "api": "6fH4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3",
         "name": "CK资源",
-        "detail": "https://ckzy.me"
+        "detail": "6fH4N5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3"
       },
       {
-        "api": "https://api.bwzyz.com/api.php/provide/vod",
+        "api": "6gI5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4",
         "name": "百万资源",
-        "detail": "https://api.bwzyz.com"
+        "detail": "6gI5O6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4"
       },
       {
-        "api": "https://91md.me/api.php/provide/vod",
+        "api": "6hJ6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5",
         "name": "91麻豆",
-        "detail": "https://91md.me"
+        "detail": "6hJ6P7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5"
       },
       {
-        "api": "http://lbapiby.com/api.php/provide/vod",
+        "api": "6iK7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6",
         "name": "AIvin",
-        "detail": "http://lbapiby.com"
+        "detail": "6iK7Q8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6"
       },
       {
-        "api": "https://jkunzyapi.com/api.php/provide/vod",
+        "api": "6jL8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7",
         "name": "JKUN资源",
-        "detail": "https://jkunzyapi.com"
+        "detail": "6jL8R9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7"
       },
       {
-        "api": "https://api.souavzy.vip/api.php/provide/vod",
+        "api": "6kM9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8",
         "name": "souav资源",
-        "detail": "https://api.souavzy.vip"
+        "detail": "6kM9S0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8"
       },
       {
-        "api": "https://lbapi9.com/api.php/provide/vod",
+        "api": "6lN0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9",
         "name": "乐播资源",
-        "detail": "https://lbapi9.com"
+        "detail": "6lN0T1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9"
       },
       {
-        "api": "https://aosikazy.com/api.php/provide/vod",
+        "api": "6mO1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0",
         "name": "奥斯卡资源",
-        "detail": "https://aosikazy.com"
+        "detail": "6mO1U2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0"
       },
       {
-        "api": "https://Naixxzy.com/api.php/provide/vod",
+        "api": "6nP2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1",
         "name": "奶香香",
-        "detail": "https://Naixxzy.com"
+        "detail": "6nP2V3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1"
       },
       {
-        "api": "http://slapibf.com/api.php/provide/vod",
+        "api": "6oQ3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2",
         "name": "森林资源",
-        "detail": "http://slapibf.com"
+        "detail": "6oQ3W4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2"
       },
       {
-        "api": "https://apiyutu.com/api.php/provide/vod",
+        "api": "6pR4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3",
         "name": "玉兔资源",
-        "detail": "https://apiyutu.com"
+        "detail": "6pR4X5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3"
       },
       {
-        "api": "http://fhapi9.com/api.php/provide/vod",
+        "api": "6qS5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4",
         "name": "番号资源",
-        "detail": "http://fhapi9.com"
+        "detail": "6qS5Y6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4"
       },
       {
-        "api": "https://www.jingpinx.com/api.php/provide/vod",
+        "api": "6rT6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5",
         "name": "精品资源",
-        "detail": "https://www.jingpinx.com"
+        "detail": "6rT6Z7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5"
       },
       {
-        "api": "https://thzy1.me/api.php/provide/vod",
+        "api": "6sU7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6",
         "name": "桃花资源",
-        "detail": "https://thzy1.me"
+        "detail": "6sU7A8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6"
       },
       {
-        "api": "https://www.avre06.com/api.php/provide/vod",
+        "api": "6tV8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7",
         "name": "黄瓜资源",
-        "detail": "https://www.avre06.com"
+        "detail": "6tV8B9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7"
       },
       {
-        "api": "https://www.msnii.com/api/json.php",
+        "api": "6uW9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8",
         "name": "美少女资源",
-        "detail": "https://www.msnii.com"
+        "detail": "6uW9C0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8"
       },
       {
-        "api": "https://www.xrbsp.com/api/json.php",
+        "api": "6vX0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8F9",
         "name": "淫水机资源",
-        "detail": "https://www.xrbsp.com"
+        "detail": "6vX0D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8F9"
       },
       {
-        "api": "https://www.gdlsp.com/api/json.php",
+        "api": "6wY1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8F9G0",
         "name": "香奶儿资源",
-        "detail": "https://www.gdlsp.com"
+        "detail": "6wY1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8F9G0"
       },
       {
-        "api": "https://www.kxgav.com/api/json.php",
+        "api": "6xZ2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8F9G0H1",
         "name": "白嫖资源",
-        "detail": "https://www.kxgav.com"
+        "detail": "6xZ2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8F9G0H1"
       },
       {
-        "api": "https://www.pgxdy.com/api/json.php",
+        "api": "6yA3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8F9G0H1I2",
         "name": "黄AV资源",
-        "detail": "https://www.pgxdy.com"
+        "detail": "6yA3G4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8F9G0H1I2"
       },
       {
-        "api": "https://apilsbzy1.com/api.php/provide/vod",
+        "api": "6zB4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8F9G0H1I2J3",
         "name": "老色逼资源",
-        "detail": "https://apilsbzy1.com"
+        "detail": "6zB4H5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8F9G0H1I2J3"
       },
       {
-        "api": "http://www.afasu.com/api/json.php",
+        "api": "7aC5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8F9G0H1I2J3K4",
         "name": "小湿妹资源",
-        "detail": "http://www.afasu.com"
+        "detail": "7aC5I6J7K8L9M0N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6D7E8F9G0H1I2J3K4"
       }
     ]
   }
